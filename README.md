@@ -122,7 +122,7 @@ Upon completion of all modules, labs, and 5 certification projects, I'll earn th
 
 ---
 
-**Start Date**: [Add your start date]  
-**Target Completion**: [Add your target date]  
-**Status**: In Progress 🚧  
+**Start Date**: [TBD]  
+**Target Completion**: [TBD]  
+**Status**: Not Started 
 **Hours Invested**: ~300 hours estimated
