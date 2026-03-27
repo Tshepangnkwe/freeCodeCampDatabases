@@ -1,0 +1,51 @@
+# Database files
+*.sql~
+*.backup
+*.dump
+*.log
+
+# PostgreSQL
+*.conf
+*.pid
+*.lock
+pg_log/
+pgdata/
+
+# Bash temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Environment variables
+.env
+.env.local
+
+# Test data
+test_data/
+sample_data/
+
+# Personal notes (uncomment if you want to keep private)
+# notes/private/
+
+# Logs
+logs/
+*.log
+
+# Build artifacts
+build/
+dist/
